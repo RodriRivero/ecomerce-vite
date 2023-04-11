@@ -5,7 +5,8 @@ import image from '../assets/glasses.jpeg'
 const Cartitems = () => {
   return (
     <div>
-      <div className='w-11/12 m-auto py-10'>
+      
+      <div className='w-11/12 m-auto py-10' >
         <h1 className='text-3xl font-bold'>Shopping Cart</h1>
         <p className='text-sm text-gray-400'>There are 1 Items in your cart</p>
         <section className='flex justify-between items-center space-x-10'>
